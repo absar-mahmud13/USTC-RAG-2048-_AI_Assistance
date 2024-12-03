@@ -32,8 +32,7 @@ USTC-RAG-2048-Chatbot
 
 ### **README.md**
 
-# **USTC AI Assistance Chatbot**
-![OUTPUT](https://github.com/user-attachments/assets/bb7e1d21-2a2d-4239-acf1-18726d6c81b3)
+**USTC AI Assistance Chatbot**
 
 ![Chatbot UI Preview](docs/architecture_diagram.png)
 
@@ -42,8 +41,7 @@ The USTC AI Assistance Chatbot is a sophisticated solution designed for the **Un
 
 ---
 **System Architucture**
-![Picture1](https://github.com/user-attachments/assets/daab0aff-401f-45f0-823b-56b0a29e2501)
-
+![Picture1](https://github.com/user-attachments/assets/6eea724a-7f29-4ccc-a7e9-cf2cac46e271)
 
 
 ## **Key Features**
@@ -61,6 +59,7 @@ The chatbot architecture includes:
 2. **Document Retrieval**: Pinecone is used to fetch semantically similar documents.
 3. **Response Generation**: Meta models generate personalized and context-aware responses.
 4. **User Interface**: Gradio provides an interactive web-based frontend.
+![Picture1](https://github.com/user-attachments/assets/b7e4a78a-c9b1-4602-9f7f-3c582f42f8aa)
 
 ---
 
@@ -99,8 +98,8 @@ The chatbot architecture includes:
 5. Access the web interface at `http://127.0.0.1:5000`.
 
 ---
-## Output ##
 
+![OUTPUT](https://github.com/user-attachments/assets/e4390fc5-c53e-4e37-b2eb-ba5e1ccc3c6a)
 
 
 ## **Usage**
@@ -109,8 +108,8 @@ The chatbot architecture includes:
   - "What is the tuition fee for undergraduate programs?"
 - **Output**: The chatbot retrieves and synthesizes responses in real-time.
 ## Output ##
+![OUTPUT](https://github.com/user-attachments/assets/9cfb4438-0f98-4cda-b6f9-41592287b496)
 
-C:\Users\absar\OneDrive\Desktop\OUTPUT.png
 ---
 
 ## **Folder Structure**
