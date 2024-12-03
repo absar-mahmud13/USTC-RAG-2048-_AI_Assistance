@@ -33,6 +33,7 @@ USTC-RAG-2048-Chatbot
 ### **README.md**
 
 # **USTC AI Assistance Chatbot**
+![OUTPUT](https://github.com/user-attachments/assets/bb7e1d21-2a2d-4239-acf1-18726d6c81b3)
 
 ![Chatbot UI Preview](docs/architecture_diagram.png)
 
@@ -41,7 +42,8 @@ The USTC AI Assistance Chatbot is a sophisticated solution designed for the **Un
 
 ---
 **System Architucture**
-"C:\Users\absar\OneDrive\Desktop\Picture1.png"
+![Picture1](https://github.com/user-attachments/assets/daab0aff-401f-45f0-823b-56b0a29e2501)
+
 
 
 ## **Key Features**
