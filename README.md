@@ -98,8 +98,9 @@ The chatbot architecture includes:
 5. Access the web interface at `http://127.0.0.1:5000`.
 
 ---
+![ui](https://github.com/user-attachments/assets/1a940e90-d203-42a4-aa09-e933c39ee565)
 
-![OUTPUT](https://github.com/user-attachments/assets/e4390fc5-c53e-4e37-b2eb-ba5e1ccc3c6a)
+
 
 
 ## **Usage**
@@ -121,6 +122,8 @@ The chatbot architecture includes:
 - **tests**: Unit and integration test scripts.
 
 ---
+**System Architucture**
+![Picture1](https://github.com/user-attachments/assets/6eea724a-7f29-4ccc-a7e9-cf2cac46e271)
 
 ## **Future Enhancements**
 1. **Multilingual Support**: Enable chatbot responses in multiple languages.
