@@ -28,6 +28,8 @@ USTC-RAG-2048-Chatbot
     ├── test_models.py
     ├── test_integration.py
    ''''
+
+
 ### **README.md**
 
 # **USTC AI Assistance Chatbot**
@@ -38,6 +40,9 @@ USTC-RAG-2048-Chatbot
 The USTC AI Assistance Chatbot is a sophisticated solution designed for the **University of Science and Technology Chittagong (USTC)** to automate responses to student queries about admissions, courses, faculty, and academic resources. It utilizes cutting-edge NLP technologies and vector-based search mechanisms for efficient and accurate query resolution.
 
 ---
+**System Architucture**
+"C:\Users\absar\OneDrive\Desktop\Picture1.png"
+
 
 ## **Key Features**
 - **Advanced NLP Models**: Powered by `meta/llama3-70b-instruct` for generating contextual responses.
@@ -54,8 +59,6 @@ The chatbot architecture includes:
 2. **Document Retrieval**: Pinecone is used to fetch semantically similar documents.
 3. **Response Generation**: Meta models generate personalized and context-aware responses.
 4. **User Interface**: Gradio provides an interactive web-based frontend.
-
-![Architecture Diagram]("C:\Users\absar\OneDrive\Desktop\Picture1.png")
 
 ---
 
@@ -94,13 +97,18 @@ The chatbot architecture includes:
 5. Access the web interface at `http://127.0.0.1:5000`.
 
 ---
+## Output ##
+
+
 
 ## **Usage**
 - **User Queries**: Ask questions like:
   - "What are the admission requirements for the CSE department?"
   - "What is the tuition fee for undergraduate programs?"
 - **Output**: The chatbot retrieves and synthesizes responses in real-time.
-Output : "C:\Users\absar\OneDrive\Desktop\OUTPUT.png"
+## Output ##
+
+C:\Users\absar\OneDrive\Desktop\OUTPUT.png
 ---
 
 ## **Folder Structure**
