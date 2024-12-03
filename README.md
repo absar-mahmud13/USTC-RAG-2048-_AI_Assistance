@@ -98,6 +98,7 @@ The chatbot architecture includes:
 5. Access the web interface at `http://127.0.0.1:5000`.
 
 ---
+To click local hosting link to show UI: 
 ![ui](https://github.com/user-attachments/assets/1a940e90-d203-42a4-aa09-e933c39ee565)
 
 
@@ -130,6 +131,11 @@ The chatbot architecture includes:
 2. **Context-Aware Memory**: Retain conversation history for personalized responses.
 3. **Mobile Integration**: Develop native apps for iOS and Android.
 4. **Adaptive Learning**: Improve response accuracy using student feedback.
+
+   
+**System Diagram**
+
+![Screenshot 2024-12-01 015212](https://github.com/user-attachments/assets/8118b426-4333-4b5f-91ca-28bace3e8990)
 
 ---
 
